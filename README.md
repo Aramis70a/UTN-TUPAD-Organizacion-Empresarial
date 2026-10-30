@@ -17,7 +17,7 @@ El proceso se modela con notación **BPMN**, organizado en un *Pool* para la org
 ## Enlaces del proyecto
 
 - **Repositorio público:** <https://github.com/Aramis70a/UTN-TUPAD-Organizacion-Empresarial>
-- **Tablero ágil (GitHub Projects):** <https://github.com/Aramis70a/UTN-TUPAD-Organizacion-Empresarial/projects/1>
+- **Tablero ágil (GitHub Projects):** <https://github.com/users/Aramis70a/projects/1>
 
 ## Contenido del repositorio
 
