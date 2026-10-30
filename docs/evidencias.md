@@ -18,10 +18,9 @@
 
 | PR | Origen | Contenido |
 | --- | --- | --- |
-| #1 | `feature/bpmn` → `develop` | Diagrama y documentación BPMN. |
-| #2 | `feature/backlog` → `develop` | Backlog, indicadores de control y declaración de IA. |
-| #3 | `develop` → `main` | Integración de la entrega. |
-| #4 | `feature/evidencias` → `main` | Evidencias de versionado y tablero ágil. |
+| #4 | `feature/evidencias` → `main` | Evidencias de versionado y tablero ágil (PR fusionado con revisión de pares). |
+
+La documentación del BPMN y el backlog se integró desde sus ramas (`feature/bpmn` y `feature/backlog`) mediante commits de merge en `develop`, y luego `develop` se integró en `main`.
 
 ## Tablero ágil (GitHub Projects)
 
